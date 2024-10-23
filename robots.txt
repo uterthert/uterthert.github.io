@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uterthert.github.io/uterthert.uterthert
+Sitemap: https://uterthert.github.io/app/uterthert.uterthert
+Sitemap: https://uterthert.github.io/assets/uterthert.uterthert
+Sitemap: https://uterthert.github.io/css/uterthert.uterthert
+Sitemap: https://uterthert.github.io/includes/uterthert.uterthert
+Sitemap: https://uterthert.github.io/item/uterthert.uterthert
+Sitemap: https://uterthert.github.io/src/uterthert.uterthert
